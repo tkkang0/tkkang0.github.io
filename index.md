@@ -16,6 +16,19 @@ My current work combines wide-field optical microscopy with functional MRI to st
 
 ## News
 
+<style>
+  .timeline .text-accent-event {
+    color: #2e7d5b !important;
+    font-weight: 700;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .timeline .text-accent-event {
+      color: #70c99a !important;
+    }
+  }
+</style>
+
 <div class="timeline">
   <div class="timeline-year"><span class="year-label">2026</span></div>
   <div class="timeline-item"><span class="timeline-month">Aug</span> Joined Boston University's <span class="text-accent-org">Neurophotonics Summer Professional Development Program</span>.</div>
