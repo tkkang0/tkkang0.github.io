@@ -7,7 +7,7 @@ description: Taekyung Kang is a Biomedical Engineering Ph.D. student at Yale Uni
 canonical: https://tkkang0.github.io/
 
 cv_link: assets/files/Taekyung_Kang_CV.pdf
-github_link: https://github.com/tkkang0
+google_scholar: https://scholar.google.com/citations?user=SRsbp3sAAAAJ&hl=en
 linkedin: https://www.linkedin.com/in/taekyung-kang-3a21a9264
 avatar: https://avatars.githubusercontent.com/u/196246901?v=4
 
@@ -36,4 +36,3 @@ exclude:
   - postcss.config.mjs
   - tsconfig.json
   - vite.config.ts
-
