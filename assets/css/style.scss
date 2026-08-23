@@ -1,0 +1,147 @@
+---
+---
+
+@import "minimal-light";
+
+/* Yale-inspired News timeline */
+.timeline {
+  position: relative;
+  padding-left: 44px;
+  margin: 14px 0 26px;
+}
+
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 17px;
+  top: 5px;
+  bottom: 5px;
+  width: 2px;
+  border-radius: 2px;
+  background: linear-gradient(to bottom, #00356b, #286dc0 72%, #b4c8e1);
+}
+
+.timeline-year {
+  position: relative;
+  margin: 15px 0 5px;
+}
+
+.timeline-year:first-child {
+  margin-top: 0;
+}
+
+.timeline-year::before {
+  content: "";
+  position: absolute;
+  left: -33px;
+  top: 50%;
+  width: 12px;
+  height: 12px;
+  border: 2.5px solid #fff;
+  border-radius: 50%;
+  background: #00356b;
+  box-shadow: 0 0 0 2px #286dc0;
+  transform: translateY(-50%);
+}
+
+.year-label {
+  color: #00356b;
+  font-size: 14px;
+  font-weight: 750;
+  letter-spacing: .5px;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 4px;
+  line-height: 1.48;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -31px;
+  top: 8px;
+  width: 7px;
+  height: 7px;
+  border: 1.5px solid #fff;
+  border-radius: 50%;
+  background: #63a7d8;
+  box-shadow: 0 0 0 1px #286dc0;
+}
+
+.timeline-month {
+  display: inline-block;
+  width: 31px;
+  margin-right: 5px;
+  color: #7b8794;
+  font-size: 12px;
+  font-weight: 650;
+}
+
+.timeline .text-accent {
+  color: #286dc0;
+  font-weight: 700;
+}
+
+.timeline .text-accent-org {
+  color: #00356b;
+  font-weight: 700;
+}
+
+.timeline a {
+  color: #286dc0;
+  font-weight: 700;
+  text-decoration-color: rgba(40, 109, 192, .35);
+  text-underline-offset: 2px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .timeline::before {
+    background: linear-gradient(to bottom, #63a7d8, #286dc0 72%, #263b54);
+  }
+
+  .timeline-year::before {
+    border-color: #20232d;
+    background: #63a7d8;
+    box-shadow: 0 0 0 2px #8fc6ee;
+  }
+
+  .timeline-item::before {
+    border-color: #20232d;
+    background: #8fc6ee;
+    box-shadow: 0 0 0 1px #63a7d8;
+  }
+
+  .year-label,
+  .timeline .text-accent-org {
+    color: #8fc6ee;
+  }
+
+  .timeline .text-accent,
+  .timeline a {
+    color: #63a7d8;
+  }
+
+  .timeline-month {
+    color: #9ba9b8;
+  }
+}
+
+@media (max-width: 560px) {
+  .timeline {
+    padding-left: 38px;
+  }
+
+  .timeline::before {
+    left: 14px;
+  }
+
+  .timeline-year::before {
+    left: -30px;
+  }
+
+  .timeline-item::before {
+    left: -28px;
+  }
+}

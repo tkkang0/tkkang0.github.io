@@ -16,11 +16,25 @@ My current work combines wide-field optical microscopy with functional MRI to st
 
 ## News
 
-- **[Jul. 2026]** Presented brain network signatures of repeated DSS-induced ulcerative colitis at the Kenneth Rainin Foundation Innovation Summit.
-- **[Jun. 2026]** Presented multimodal fMRI and calcium imaging work at the Organization for Human Brain Mapping Annual Meeting in Bordeaux.
-- **[May 2026]** Presented fMRI-compatible simultaneous cortical wide-field imaging at ISMRM-ISMRT in Cape Town.
-- **[2026]** Joined Yale's Computational Molecular & Functional Imaging Training (CMFIT) Program and Boston University's Neurophotonics Summer Professional Development program.
-- **[2025]** Co-authored research in *Cell*, *The Journal of Clinical Investigation*, and new bioRxiv work spanning brain, heart, and metabolism.
+<div class="timeline">
+  <div class="timeline-year"><span class="year-label">2026</span></div>
+  <div class="timeline-item"><span class="timeline-month">Jul</span> Presented brain network signatures of repeated DSS-induced ulcerative colitis at the <span class="text-accent-org">Kenneth Rainin Foundation Innovation Summit</span>.</div>
+  <div class="timeline-item"><span class="timeline-month">Jun</span> Presented multimodal fMRI and calcium imaging at the <span class="text-accent">OHBM Annual Meeting</span> in Bordeaux.</div>
+  <div class="timeline-item"><span class="timeline-month">May</span> Presented fMRI-compatible simultaneous cortical wide-field imaging at <span class="text-accent">ISMRM-ISMRT</span> in Cape Town.</div>
+  <div class="timeline-item"><span class="timeline-month">Mar</span> Presented multimodal WF imaging with fMRI at the <span class="text-accent-org">Yale Biomedical Engineering Symposium</span>.</div>
+  <div class="timeline-item"><span class="timeline-month">—</span> Joined Yale's <span class="text-accent-org">CMFIT Program</span> and Boston University's Neurophotonics Summer Professional Development program.</div>
+
+  <div class="timeline-year"><span class="year-label">2025</span></div>
+  <div class="timeline-item"><span class="timeline-month">Oct</span> New preprint: <b><a href="https://doi.org/10.1101/2025.10.27.684863">Longitudinal wide-field fluorescent Ca<sup>2+</sup> imaging and fMRI in awake mice</a></b>.</div>
+  <div class="timeline-item"><span class="timeline-month">Oct</span> Presented simultaneous wide-field optical microscopy and fMRI at the <span class="text-accent-org">Yale Biomedical Imaging Institute Dean's Workshop</span>.</div>
+  <div class="timeline-item"><span class="timeline-month">Aug</span> New preprint: <b><a href="https://doi.org/10.1101/2025.08.18.670963">Intestinal catabolism of dietary fructose and ileal lacteal remodeling</a></b>.</div>
+  <div class="timeline-item"><span class="timeline-month">Jun</span> New preprint on AMPK activation, cardiac stability, and protection against arrhythmias.</div>
+  <div class="timeline-item"><span class="timeline-month">May</span> Co-authored <span class="text-accent">Cross-organ metabolite production and consumption</span> in <i>Cell</i>.</div>
+
+  <div class="timeline-year"><span class="year-label">2024</span></div>
+  <div class="timeline-item"><span class="timeline-month">Jul</span> Co-authored <b><a href="https://doi.org/10.1172/JCI174500">Arteriovenous metabolomics in pigs reveals CFTR regulation of metabolism</a></b> in <i>JCI</i>.</div>
+  <div class="timeline-item"><span class="timeline-month">Aug</span> Started graduate research in <span class="text-accent-org">Yale Internal Medicine</span>.</div>
+</div>
 
 ## Publications
 
@@ -128,4 +142,3 @@ My current work combines wide-field optical microscopy with functional MRI to st
 - **Medical Assistant**, Inje University Paik Hospital — 2020
 - **Medical Assistant**, Busan Medical Center — 2019
 - **Fellow**, Columbia University Science Honors Program — 2017–2018
-
