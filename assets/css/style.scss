@@ -89,6 +89,11 @@
   font-weight: 700;
 }
 
+.timeline .text-accent-event {
+  color: #2e7d5b;
+  font-weight: 700;
+}
+
 .timeline a {
   color: #286dc0;
   font-weight: 700;
@@ -116,6 +121,10 @@
   .year-label,
   .timeline .text-accent-org {
     color: #8fc6ee;
+  }
+
+  .timeline .text-accent-event {
+    color: #70c99a;
   }
 
   .timeline .text-accent,

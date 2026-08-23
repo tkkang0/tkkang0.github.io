@@ -19,15 +19,15 @@ My current work combines wide-field optical microscopy with functional MRI to st
 <div class="timeline">
   <div class="timeline-year"><span class="year-label">2026</span></div>
   <div class="timeline-item"><span class="timeline-month">Aug</span> Joined Boston University's <span class="text-accent-org">Neurophotonics Summer Professional Development Program</span>.</div>
-  <div class="timeline-item"><span class="timeline-month">Jul</span> Presented brain network signatures of repeated DSS-induced ulcerative colitis at the <span class="text-accent-org">Kenneth Rainin Foundation Innovation Summit</span>.</div>
+  <div class="timeline-item"><span class="timeline-month">Jul</span> Presented brain network signatures of repeated DSS-induced ulcerative colitis at the <span class="text-accent-event">Kenneth Rainin Foundation Innovation Summit</span>.</div>
   <div class="timeline-item"><span class="timeline-month">Jul</span> Joined Yale's <span class="text-accent-org">Computational Molecular &amp; Functional Imaging Training (CMFIT) Program</span>.</div>
-  <div class="timeline-item"><span class="timeline-month">Jun</span> Presented multimodal fMRI and calcium imaging at the <span class="text-accent">OHBM Annual Meeting</span> in Bordeaux.</div>
-  <div class="timeline-item"><span class="timeline-month">May</span> Presented fMRI-compatible simultaneous cortical wide-field imaging at <span class="text-accent">ISMRM-ISMRT</span> in Cape Town.</div>
-  <div class="timeline-item"><span class="timeline-month">Mar</span> Presented multimodal WF imaging with fMRI at the <span class="text-accent-org">Yale Biomedical Engineering Symposium</span>.</div>
+  <div class="timeline-item"><span class="timeline-month">Jun</span> Presented multimodal fMRI and calcium imaging at the <span class="text-accent-event">OHBM Annual Meeting</span> in Bordeaux.</div>
+  <div class="timeline-item"><span class="timeline-month">May</span> Presented fMRI-compatible simultaneous cortical wide-field imaging at <span class="text-accent-event">ISMRM-ISMRT</span> in Cape Town.</div>
+  <div class="timeline-item"><span class="timeline-month">Mar</span> Presented multimodal WF imaging with fMRI at the <span class="text-accent-event">Yale Biomedical Engineering Symposium</span>.</div>
 
   <div class="timeline-year"><span class="year-label">2025</span></div>
   <div class="timeline-item"><span class="timeline-month">Oct</span> New preprint: <b><a href="https://doi.org/10.1101/2025.10.27.684863">Longitudinal wide-field fluorescent Ca<sup>2+</sup> imaging and fMRI in awake mice</a></b>.</div>
-  <div class="timeline-item"><span class="timeline-month">Oct</span> Presented simultaneous wide-field optical microscopy and fMRI at the <span class="text-accent-org">Yale Biomedical Imaging Institute Dean's Workshop</span>.</div>
+  <div class="timeline-item"><span class="timeline-month">Oct</span> Presented simultaneous wide-field optical microscopy and fMRI at the <span class="text-accent-event">Yale Biomedical Imaging Institute Dean's Workshop</span>.</div>
   <div class="timeline-item"><span class="timeline-month">Aug</span> New preprint: <b><a href="https://doi.org/10.1101/2025.08.18.670963">Intestinal catabolism of dietary fructose and ileal lacteal remodeling</a></b>.</div>
   <div class="timeline-item"><span class="timeline-month">Jun</span> New preprint on AMPK activation, cardiac stability, and protection against arrhythmias.</div>
   <div class="timeline-item"><span class="timeline-month">May</span> Co-authored <span class="text-accent">Cross-organ metabolite production and consumption</span> in <i>Cell</i>.</div>
