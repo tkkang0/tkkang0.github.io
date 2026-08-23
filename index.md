@@ -33,7 +33,7 @@ My current work combines wide-field optical microscopy with functional MRI to st
 
   <div class="timeline-year"><span class="year-label">2024</span></div>
   <div class="timeline-item"><span class="timeline-month">Jul</span> Co-authored <b><a href="https://doi.org/10.1172/JCI174500">Arteriovenous metabolomics in pigs reveals CFTR regulation of metabolism</a></b> in <i>JCI</i>.</div>
-  <div class="timeline-item"><span class="timeline-month">Aug</span> Started graduate research in <span class="text-accent-org">Yale Internal Medicine</span>.</div>
+  <div class="timeline-item"><span class="timeline-month">Aug</span> Started Biomedical Engineering PhD program in <span class="text-accent-org">Yale University</span>.</div>
 </div>
 
 ## Publications
