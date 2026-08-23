@@ -1,0 +1,39 @@
+title: Taekyung Kang
+position: Ph.D. Student in Biomedical Engineering
+affiliation: Yale University
+
+keywords: Taekyung Kang, Yale Biomedical Engineering, multimodal imaging, fMRI, wide-field optical imaging, systems neuroscience
+description: Taekyung Kang is a Biomedical Engineering Ph.D. student at Yale University developing multimodal imaging approaches for systems neuroscience.
+canonical: https://tkkang0.github.io/
+
+cv_link: assets/files/Taekyung_Kang_CV.pdf
+github_link: https://github.com/tkkang0
+linkedin: https://www.linkedin.com/in/taekyung-kang-3a21a9264
+avatar: https://avatars.githubusercontent.com/u/196246901?v=4
+
+enable_footnote: true
+auto_dark_mode: true
+font: "Serif"
+remote_theme: yaoyao-liu/minimal-light
+
+exclude:
+  - app/
+  - db/
+  - drizzle/
+  - examples/
+  - node_modules/
+  - outputs/
+  - tests/
+  - work/
+  - worker/
+  - README.md
+  - drizzle.config.ts
+  - eslint.config.mjs
+  - next-env.d.ts
+  - next.config.ts
+  - package-lock.json
+  - package.json
+  - postcss.config.mjs
+  - tsconfig.json
+  - vite.config.ts
+
