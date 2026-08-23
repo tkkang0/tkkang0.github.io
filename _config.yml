@@ -9,7 +9,7 @@ canonical: https://tkkang0.github.io/
 cv_link: assets/files/Taekyung_Kang_CV.pdf
 google_scholar: https://scholar.google.com/citations?user=SRsbp3sAAAAJ&hl=en
 linkedin: https://www.linkedin.com/in/taekyung-kang-3a21a9264
-avatar: https://avatars.githubusercontent.com/u/196246901?v=4
+avatar: ./assets/img/taekyung-kang-profile.png
 
 enable_footnote: true
 auto_dark_mode: true
