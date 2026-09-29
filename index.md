@@ -31,6 +31,7 @@ My current work combines wide-field optical microscopy with functional MRI to st
 
 <div class="timeline">
   <div class="timeline-year"><span class="year-label">2026</span></div>
+  <div class="timeline-item"><span class="timeline-month">Sep</span> Joined <span class="text-accent-org">Roberts Innovation Fund</span> as a Strategy Associate.</div>
   <div class="timeline-item"><span class="timeline-month">Aug</span> Joined Boston University's <span class="text-accent-org">Neurophotonics Summer Professional Development Program</span>.</div>
   <div class="timeline-item"><span class="timeline-month">Jul</span> Presented brain network signatures of repeated DSS-induced ulcerative colitis at the <span class="text-accent-event">Kenneth Rainin Foundation Innovation Summit</span>.</div>
   <div class="timeline-item"><span class="timeline-month">Jul</span> Joined Yale's <span class="text-accent-org">Computational Molecular &amp; Functional Imaging Training (CMFIT) Program</span>.</div>
