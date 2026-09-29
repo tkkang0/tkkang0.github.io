@@ -17,6 +17,16 @@ My current work combines wide-field optical microscopy with functional MRI to st
 ## News
 
 <style>
+  .image.avatar img {
+    display: block;
+    width: 120px;
+    height: 120px;
+    padding: 0;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+  }
+
   .timeline .text-accent-event {
     color: #2e7d5b !important;
     font-weight: 700;
