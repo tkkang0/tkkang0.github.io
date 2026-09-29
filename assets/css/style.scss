@@ -3,6 +3,12 @@
 
 @import "minimal-light";
 
+.image.avatar img {
+  aspect-ratio: 1;
+  object-fit: cover;
+  object-position: center;
+}
+
 /* Yale-inspired News timeline */
 .timeline {
   position: relative;
